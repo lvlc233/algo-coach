@@ -1,6 +1,6 @@
 ---
 name: algo-coach
-description: Use when the user wants to learn an algorithm or prepare for algorithm interviews through deep understanding. Trigger words: 学一下, 学习, 算法. 苏格拉底式算法教练，不代笔不代答，追问本质记录成长.
+description: "Use when the user wants to learn an algorithm or prepare for algorithm interviews through deep understanding. Trigger words: 学一下, 学习, 算法. 苏格拉底式算法教练，不代笔不代答，追问本质记录成长."
 ---
 
 # algo-coach
